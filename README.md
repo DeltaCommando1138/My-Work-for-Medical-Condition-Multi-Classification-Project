@@ -9,6 +9,7 @@ This repository contains the contributions I made for one of my group projects: 
 - ensemble.ipynb: Displays the steps and results of the stacking ensemble that combined select models to achieve our best classification accuracy
 
 Note: If you don't want to download the main notebook file (Too big to be displayed on the repository) to view my model results, then just click the link below (Takes a while to load)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DeltaCommando1138/My-Work-for-Medical-Condition-Multi-Classification-Project/main?filepath=notebooks/main.ipynb)
 
 
